@@ -1,0 +1,8 @@
+out-a/
+out-b/
+screenshots/*.jpg
+shot.mjs
+verify.mjs
+playtest.mjs
+playtest-end.jpg
+BUILD_LOG.md
